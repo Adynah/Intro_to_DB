@@ -15,7 +15,7 @@ INSERT INTO customer (
     `125 Happiness  Ave.`
 ), (
     `4`,
-    `Nehemiah Kamolu`,
+    `Nehemial Kamolu`,
     `nkamolu@sandtech.com`,
     `126 Happiness  Ave.`
 )
